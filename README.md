@@ -1,5 +1,5 @@
 # Digit_recognizer
-Using CNN, LeNet, AlexNet as backbone network and apply mixup to compare.
+Using CNN, LeNet, AlexNet as backbone network and apply mixup to improve and compare.
 ## Result
 * Training set : Testing set = 4:1 
 * MNIST dataset come from [Kaggle competition](https://www.kaggle.com/c/digit-recognizer).
@@ -18,3 +18,4 @@ You can add alpha=0 to the mixup notebooks so you don't need to run the original
 
 I still put the original ones on for someone who don't want to use mixup.
 ## Acknowledgements
+[mixup: Beyond Empirical Risk Minimization](https://arxiv.org/abs/1710.09412)
