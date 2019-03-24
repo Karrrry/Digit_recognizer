@@ -15,5 +15,5 @@ Using CNN, LeNet, AlexNet as backbone network and apply mixup to compare.
 Just run the notebook, require Pytorch.
 
 You can add alpha=0 to the mixup notebooks so you don't need to run the original ones. 
-***I still put the original ones on for someone who don't want to use mixup.
+*** I still put the original ones on for someone who don't want to use mixup.
 ## Acknowledgements
