@@ -3,6 +3,7 @@ Using CNN, LeNet, AlexNet as backbone network and apply mixup to improve and com
 ## Result
 * Training set : Testing set = 4:1, separated from train.csv
 * MNIST dataset come from [Kaggle competition](https://www.kaggle.com/c/digit-recognizer).
+* Alpha=0 means not using mixup
 
 |    Alpha    |     CNN     |    LeNet    |    Alexnet    |
 |-------------|:-----------:|:-----------:|--------------:|
