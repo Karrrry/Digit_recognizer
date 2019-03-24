@@ -2,6 +2,7 @@
 Using CNN, LeNet, AlexNet as backbone network and apply mixup to compare.
 ## Result
 Training set : Testing set = 4:1
+
 MNIST dataset come from Kaggle competition.
 
 |    Alpha    |    CNN    |    LeNet    |    Alexnet    |
