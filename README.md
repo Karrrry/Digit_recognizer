@@ -16,7 +16,7 @@ Using CNN, LeNet, AlexNet as backbone network and apply mixup to improve and com
 ## Run
 Just run the notebook, require Pytorch.
 
-You can add alpha=0 to the mixup notebooks so you don't need to run the original ones. 
+You can add `alpha=0` to the mixup notebooks so you don't need to run the original ones. 
 
 I still put the original ones on for someone who don't want to use mixup.
 ## Mixup
