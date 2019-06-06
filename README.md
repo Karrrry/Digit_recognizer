@@ -19,5 +19,7 @@ Just run the notebook, require Pytorch.
 You can add `alpha=0` to the mixup notebooks so you don't need to run the original ones. 
 
 I still put the original ones on for someone who don't want to use mixup.
+
+* You may choose the GPU version `CNN_GPU`
 ## Mixup
 [mixup: Beyond Empirical Risk Minimization](https://arxiv.org/abs/1710.09412)
